@@ -1,9 +1,10 @@
 ## Mikroklimat
 Målet kommar vara att mäta temperatur och luftfuktighet i lagerlokal där papper och kemikalier förvaras. Det finns en oro för vattenlekage från taket. Kartong kan bli förstört om det förvaras i fuktig miljö. Kemikalierna fryser vid ca 10 grader. Detta vill vi undvika. 
 ## Livsmedelsbelägnings maskin (Vaxmaskin)
-Maskin som täcker papper med vax
+Maskin som täcker papper med vax. Systemet består av en balja med smält vax som hålls varmt av uppvärmt vatten. Det finns även en stor vaxtank där man häller i pulvricerat vax i fast form. Vaxet i tanken smälts och hålls flytande med hjälp av vattnet från baljan. Vattnet i sytemet måste altså pumpas runt. 
+
 ### Värmeslinga
-Varmvatten pumpas runt till olika delar av systemet, för att smälta vax. Det har hänt att det kommit in luft i systemet vilket har lett till att cirkulationen har stannat av, Kan bero på att vattennivån i systemet har blivit för lågt. Detta kan leda till att vaxet i vaxtanken stelnar. Vilket leder till stopp i produktionen. Förslag på lösningar: Kolla temperatur på rören som går ut ur och in i vaxtanken. Kolla flödet i tidigare nämnda rör.
+Det har hänt att det kommit in luft i systemet vilket har lett till att cirkulationen har stannat av, Kan bero på att vattennivån i systemet har blivit för lågt. Detta kan leda till att vaxet i vaxtanken stelnar. Vilket leder till stopp i produktionen. Förslag på lösningar: Kolla temperatur på rören som går ut ur och in i vaxtanken. Kolla flödet i tidigare nämnda rör.
 
 > Davids kommentar: Mäta temperatur kan kanske göras på samma sätt både i lager och på rör. Fördel att få värdena i mobilen samt att kunna ställa in larm vid vissa temperaturer.
 ### Mäta Vaxbeläggningen på pappret
