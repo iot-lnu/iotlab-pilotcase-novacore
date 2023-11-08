@@ -5,7 +5,7 @@ Målet kommar vara att mäta temperatur och luftfuktighet i lagerlokal där papp
 ## Livsmedelsbelägnings maskin (Vaxmaskin)
 Maskin som täcker papper med vax. Systemet består av en balja med smält vax som hålls varmt av uppvärmt vatten. Det finns även en stor vaxtank där man häller i pulvricerat vax i fast form. Vaxet i tanken smälts och hålls flytande med hjälp av vattnet från baljan. Vattnet i sytemet måste altså pumpas runt.
 
-![](IMG/20231108_111012.jpg)
+![](img/20231108_111012.jpg)
 
 ### Värmeslinga
 Det har hänt att det kommit in luft i systemet vilket har lett till att cirkulationen har stannat av, Kan bero på att vattennivån i systemet har blivit för lågt. Detta kan leda till att vaxet i vaxtanken stelnar. Vilket leder till stopp i produktionen. Förslag på lösningar: Kolla temperatur på rören som går ut ur och in i vaxtanken. Kolla flödet i tidigare nämnda rör.
