@@ -18,7 +18,7 @@ Behovet är att öka kvalitetsförsäkringsnivån på papper täckt med vax. Pro
 > Davids komentar: Känns evenuellt för ambitiöst för att kunna underhållas när LNU lämnar
 
 ## Wella (Rostskyddsbeläggningsmaskin)
-Maskinen består av två system. Den ena matar kartong från ena sidan, den andra staplar den färdiga kartongen.  De två delarna komununicerar inte med varandra.  Detta kan leda till att kartong fortsätter matas trotts att det blir problem med staplingen på slutet. I dessa fall kommer kartongen att hamna överallt. Detta leder till extraarbete för att stapla kartången, samt paus i produktionen.
+Maskinen består av två system. Det ena matar kartong från ena sidan, det andra staplar den färdiga kartongen på andra sidan. De två delarna komununicerar inte med varandra.  Detta kan leda till att kartong fortsätter matas trotts att det blivit problem med staplingen på slutet. I dessa fall kommer kartongen att hamna överallt. Detta leder till extraarbete för att stapla kartongen, samt paus i produktionen.
 
 > Davids Komentar: Den vill jag helst få en lösning på!
 
