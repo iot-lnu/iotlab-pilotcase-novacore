@@ -12,6 +12,8 @@ Det har hänt att det kommit in luft i systemet vilket har lett till att cirkula
 
 > Davids kommentar: Mäta temperatur kan kanske göras på samma sätt både i lager och på rör. Fördel att få värdena i mobilen samt att kunna ställa in larm vid vissa temperaturer.
 
+![](/img/rörvax.jpg)
+
 ### Mäta Vaxbeläggningen på pappret
 Behovet är att öka kvalitetsförsäkringsnivån på papper täckt med vax. Problem som kan uppstå är att det blir för mycket eller för lite. Framförallt kan det bli för mycket på kanterna. Rullarna kan som bredast vara 1.15 m. Viktigast i nulget är att få någon form av varning så att man kan åtgärda problemet snabbare. Felaktig belägning kan leda till att papret spricker, att rullen blir sne samt att det ramlar ut vax när man hanterar det fördiga pappret. I värsta fall behöver pappret kasseras.
 
@@ -23,3 +25,9 @@ Maskinen består av två system. Det ena matar kartong från ena sidan, det andr
 > Davids Komentar: Den vill jag helst få en lösning på!
 
 ![](img/20231108_112149.jpg)
+
+Styrning sygpropp.Behöver stoppas vid behov
+![](/img/styrsugpropp.jpg)
+
+Styrning Hissbord. Sensordata behöver läsas och användas för att stoppa sugpropp
+![](/img/styrhissbord.jpg)

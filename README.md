@@ -8,6 +8,7 @@ Temperatur och luftfuktighet ska mätas i en lagerlokal. Temperatur ska även m�
 
 Vi kan testa att mäta temperaturen i rör med hjälp av en sensor med probe. En beskrivning av hur det kan göras finns [här](https://www.bapihvac.com/application_note/measuring-the-temperature-of-small-pipes-with-remote-probes-application-note/).
 
-### Sensorförslag
+### Inköpsförslag
 
+|Produkt|Pris|Antal|
 |
